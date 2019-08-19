@@ -6,7 +6,7 @@ namespace AHBC_JULY_2019_MIDTERM
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HelloWorld!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
